@@ -1,5 +1,29 @@
-Data Scientist Capstone Project
-You can read the article from this link : https://medium.com/@kmhimanshu00/starbucks-udacity-capstone-project-7efa5eae0f5f?sk=6f737efcd79cb8af258155defde71d44
+Capstone Project: Optimizing Starbucks App Offers
+Table of Contents
+Installation
+Project Motivation
+File Descriptions
+Results
+Licensing, Authors, and Acknowledgements
+Installation
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+
+Project Motivation
+The motivation for this project is to showcase an end-to-end data science process, solving a real-world company problem.
+
+File Descriptions
+The following are the files available in this repository:
+
+Starbucks_Capstone_notebook.ipynb - a notebook containing all the analysis for the project
+
+portfolio.json - json file containing details of Starbucks offers being presented to customers
+
+profile.json - json file containing customer demographic information
+
+transcript.json - json file with simulated customer transaction data
+
+Results
+The main findings of the code can be found in the Results section at the post available https://medium.com/@kmhimanshu00/starbucks-udacity-capstone-project-7efa5eae0f5f?sk=6f737efcd79cb8af258155defde71d44
 
 Introduction
 For the Capstone Project, I chose the “Optimizing App Offers With Starbucks” project, which basically trying to solve the problem on how to send the offer to the right customers.
