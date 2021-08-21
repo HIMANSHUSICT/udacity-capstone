@@ -1,4 +1,4 @@
-# its the new approach and the blog is also new
+# Overview
 Capstone Project: Optimizing Starbucks App Offers
 Table of Contents
 Installation
